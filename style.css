@@ -1,0 +1,86 @@
+ /* front page */
+ body {
+     background: linear-gradient(90deg, blue, #fff, rgb(0, 255, 234));
+ }
+
+ .port-text {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 8rem;
+     background: linear-gradient(45deg, #2035ac, #30dbbf);
+     background-clip: text;
+     -webkit-background-clip: text;
+     color: transparent;
+     display: block;
+     margin-top: 12%;
+     margin-bottom: 1%;
+ }
+
+ .about {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 2.5rem;
+     background: linear-gradient(45deg, rgb(192, 28, 28), rgb(156, 48, 160));
+     background-clip: text;
+     -webkit-background-clip: text;
+     color: transparent;
+     display: block;
+     margin-top: 1%;
+ }
+
+ a.about:hover {
+     background: linear-gradient(45deg, rgb(92, 42, 42), rgb(48, 65, 112));
+     background-clip: text;
+     -webkit-background-clip: text;
+     color: transparent;
+ }
+
+ .myself {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 1.5rem;
+ }
+
+ /* front page items */
+ .front-view {
+     display: block;
+     text-align: center;
+     justify-content: center;
+ }
+
+ /* Head of first page */
+
+ /* Second page/about page */
+ .second-page-top-right-bar {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    justify-content: right;
+    text-align: flex-start;
+    margin-top: 2%;
+    padding-right: 2%;
+     
+}
+.second-page-top-right-bar a  {
+    text-decoration: none;
+    color: #2035ac;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ .Sub-head {
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-style: italic;
+ }
+
+ .Body-of-contents {
+     display: block;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: rgb(8, 66, 28);
+     text-align: justify;
+     justify-content: center;
+     text-align: center;
+     font-size: 1.5rem;
+     margin-top: 10%;
+ }
+
+ body {
+     background: linear-gradient(90deg, #e0e1e4, #71c0b3);
+ }
