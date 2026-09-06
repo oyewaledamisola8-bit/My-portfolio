@@ -325,4 +325,158 @@
      font-style: italic;
      color: rgb(8, 66, 28);
  }
- 
+
+ /* Achievement page */
+ .achievements-page-top-right-bar {
+     display: flex;
+     flex-direction: row;
+     gap: 5%;
+     margin-top: 2%;
+     padding-right: 2%;
+     justify-content: right;
+ }
+
+ .achievements-page-top-right-bar a {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight: 600;
+     color: #2035ac;
+     text-decoration: none;
+ }
+
+ .achievements-page-top-right-bar a:hover {
+     box-shadow: 0 0 4px;
+     text-shadow: 0 1px #fff;
+ }
+
+ .achievement {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+
+
+ .achievement-status {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+
+ .achievement-info {
+     color: #000;
+     font-size: 1.2rem;
+     font-weight: 600;
+ }
+
+ .leadership-status {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+
+ .leadership-section {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+
+ .leadership-info {
+     font-size: 1.5rem;
+     color: #000;
+ }
+
+ /* Approach Page */
+ .approach-status {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+
+ .approach-section {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+
+ .approach-info {
+     font-size: 1.5rem;
+     color: #000;
+ }
+
+ /* Goals page */
+
+ .goal-info {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+
+ .goals-section {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+ .connect-status {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+
+ .connect-section {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+ .connect-info {
+    font-size: 1.5rem;
+    color: #000 ;
+ }
