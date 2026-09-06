@@ -236,4 +236,93 @@
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      font-size: 1.2rem;
  }
- .
+
+ /* Education Page */
+ .education-page-top-right-bar {
+     display: flex;
+     flex-direction: row;
+     gap: 5%;
+     margin-top: 2%;
+     padding-right: 2%;
+     justify-content: right;
+ }
+
+ .education-page-top-right-bar a {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight: 600;
+     color: #2035ac;
+     text-decoration: none;
+ }
+
+ .education-page-top-right-bar a:hover {
+     box-shadow: 0 0 4px;
+     text-shadow: 0 1px #fff;
+ }
+
+ .education-status {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+
+ .college {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.8rem;
+     font-weight: 550;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+
+ .education-section {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+
+ .education-area {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.5rem;
+     font-weight: 700;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: #000;
+ }
+
+ .prev {
+     color: #000;
+     font-size: 1.5rem;
+     font-weight: 700;
+ }
+
+ .secondary {
+     color: rgb(8, 66, 28);
+     font-size: 1.4rem;
+     font-weight: 700;
+ }
+
+ .project-info {
+     margin-top: 3%;
+     justify-content: center;
+     text-align: center;
+     font-size: 2.5rem;
+     font-weight: 600;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(8, 66, 28);
+ }
+ 
