@@ -339,7 +339,7 @@
      font-size: 1.4rem;
      font-weight: 700;
  }
-
+   /* Project-page */
  .project-info {
      margin-top: 3%;
      justify-content: center;
@@ -350,7 +350,25 @@
      font-style: italic;
      color: rgb(8, 66, 28);
  }
-
+ .project-section {
+     margin-top: 2%;
+     justify-content: left;
+     text-align: left;
+     font-size: 1.3rem;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+     color: rgb(8, 66, 28);
+ }
+ .project-section a {
+    text-decoration: none;
+    color: #2035ac;
+ }
+.project-status {
+    color: #000;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
  /* Achievement page */
  .achievements-page-top-right-bar {
      display: flex;
